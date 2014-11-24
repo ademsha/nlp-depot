@@ -1,4 +1,4 @@
-nlp-depot
+NLP Depot
 =========
 
 NLP Depot
